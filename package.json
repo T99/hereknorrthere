@@ -1,22 +1,22 @@
 {
-	"name": "<name>",
+	"name": "hereknorrthere",
 	"version": "0.1.0",
-	"description": "<desc>",
+	"description": "Neither here Knorr there!",
 	"main": "js/main.js",
 	"scripts": {
 		"build": "gulp rebuild"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/<github_org>/<base_name>.git"
+		"url": "git+https://github.com/T99/hereknorrthere"
 	},
 	"keywords": [],
 	"author": "Trevor Sears <trevorsears.main@gmail.com>",
 	"license": "GPL-3.0-or-later",
 	"bugs": {
-		"url": "https://github.com/<github_org>/<base_name>/issues"
+		"url": "https://github.com/T99/hereknorrthere/issues"
 	},
-	"homepage": "https://github.com/<github_org>/<base_name>#readme",
+	"homepage": "https://github.com/T99/hereknorrthere#readme",
 	"dependencies": {
 		"regenerator-runtime": "^0.13.2"
 	},

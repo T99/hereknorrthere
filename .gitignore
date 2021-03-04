@@ -1,3 +1,8 @@
+.idea/
+.d.ts/
+js/
+package-lock.json
+
 # NPM's node_modules directory.
 node_modules/
 
